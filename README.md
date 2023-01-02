@@ -15,7 +15,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SohamDesai1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SohamDesai1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamDesai1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohamdesai1&show_icons=true&locale=en&layout=compact" alt="sohamdesai1" /></p>
 
