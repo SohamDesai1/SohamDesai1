@@ -17,6 +17,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SohamDesai1&theme=dark&hide_border=false)<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohamdesai1&show_icons=true&locale=en&layout=compact" alt="sohamdesai1" /></p>
+<br><br><br><br><br><br><br><br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
